@@ -8,9 +8,9 @@
 
 ![logoModule.png](.gitbook/assets/logomodule.png)
  
-© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))   
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))   
  
-© 2016 XOOPS Project \([www.xoops.org](https://xoops.org)\)
+© 2018 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
  
@@ -27,7 +27,7 @@ Protector logs the attacking IPs and offers a range of countermeasures including
  
 _Figure 1: Main view of the Protector Module \(Admin side\)_
 
-![image001.png](.gitbook/assets/image001.png)
+![](.gitbook/assets/image001.png)
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 

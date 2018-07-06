@@ -9,7 +9,7 @@ The Protect Center \(below\) provides a convenient tool to ban the IP numbers of
   
 _Figure 2 The Protector Center_
 
-![image002.png](.gitbook/assets/image002.png)
+![](.gitbook/assets/image002.png)
 
 Things that you can do here are:
 
@@ -26,7 +26,7 @@ The Security Advisory page evaluates the vulnerability of your site against seve
   
 _Figure 3 The Security Advisory_
 
-![image003.png](.gitbook/assets/image003.png)
+![](.gitbook/assets/image003.png)
 
 ### **Fixing the security risks**
 

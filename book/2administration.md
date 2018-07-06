@@ -7,7 +7,7 @@ There are three major areas in Protector:
 
 The Protect Center (below) provides a convenient tool to ban the IP numbers of computers (or people!) that are causing you problems. It also provides a list of all IPs that have been banned to date, including those banned (or at least, reacted to) by the Protector module itself in response to incidents.
 
-![image002.png](../assets/image002.png)   
+![](../assets/image002.png)   
 *Figure 2 The Protector Center*
 
 Things that you can do here are:
@@ -24,7 +24,7 @@ Things that you can do here are:
 
 The Security Advisory page evaluates the vulnerability of your site against several potential security risks and offers advice on how to fix them. In the screenshot below you can see that this site has one issue that should be fixed:
 
-![image003.png](../assets/image003.png)   
+![](../assets/image003.png)   
 *Figure 3 The Security Advisory*
 
 #### **Fixing the security risks**
